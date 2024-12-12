@@ -1,5 +1,5 @@
 #!/bin/bash
-#
+
 # vmcreate - This Tool help to setup Lab Environment very instantaneously. We can spin
 #			 N no machine according to our requirment and the base machine hardware
 #			 configuration's. we can also list and delete machine using this tool.
