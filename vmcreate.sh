@@ -8,7 +8,7 @@
 # USAGE: ./vmcreate
 #
 # REQUIREMENTS: Vagrant and Virtual Box
-#
+
 # OVERHEAD: Only when this tool is deployed for the first time it will download
 #           a centos7 800MB Size image from Vagrant Cloud, thereafter for every new spin
 #			the image already downloaded and available in the cache will be deployed.
